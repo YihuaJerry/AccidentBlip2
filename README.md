@@ -11,5 +11,5 @@ Intelligent vehicles have demonstrated excellent capabilities in many transporta
   ```bash
   pip3 install transformers torch
   ```
-- Replace `./blip2/modeling_blip2.py` into your own transformers environment
+- Replace `./blip2/modeling_blip_2.py` into your own transformers environment
 - Run the training code
